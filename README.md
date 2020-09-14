@@ -2,11 +2,11 @@
 Project for learn React-Native
 
 For launch the project:
-_Enter with "cd MoviesAndMe".
-_In the file "API/TDMBapi.js", replace the content of API TOKEN by your Api key from TDMB
-_Do "npm start".
-_Click on "Run in web browser".
-_Enjoy.
+* Enter with "cd MoviesAndMe".
+* In the file "API/TDMBapi.js", replace the content of API TOKEN by your Api key from TDMB.
+* Do "npm start".
+* Click on "Run in web browser".
+* Enjoy.
 
 Or:
 
